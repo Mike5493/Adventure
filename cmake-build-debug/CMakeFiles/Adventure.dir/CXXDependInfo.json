@@ -1,0 +1,23 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/botw5/CLionProjects/Adventure/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/botw5/CLionProjects/Adventure",
+	"dir-top-bld" : "C:/Users/botw5/CLionProjects/Adventure/cmake-build-debug",
+	"dir-top-src" : "C:/Users/botw5/CLionProjects/Adventure",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\botw5\\CLionProjects\\Adventure\\src",
+		"_deps\\raylib-src\\src",
+		"_deps\\raylib-src\\src\\external\\glfw\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/botw5/CLionProjects/Adventure/cmake-build-debug/CMakeFiles/Adventure.dir"
+}
